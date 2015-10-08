@@ -1,0 +1,11 @@
+D:\ProjectCoba\coba23\CashFlow\TesUnitCashFlow\bin\Debug\TesUnitCashFlow.dll
+D:\ProjectCoba\coba23\CashFlow\TesUnitCashFlow\bin\Debug\TesUnitCashFlow.pdb
+D:\ProjectCoba\coba23\CashFlow\TesUnitCashFlow\bin\Debug\CashFlowProject.dll
+D:\ProjectCoba\coba23\CashFlow\TesUnitCashFlow\bin\Debug\CashFlowProject.pdb
+D:\ProjectCoba\coba23\CashFlow\TesUnitCashFlow\obj\Debug\TestUnit.csprojResolveAssemblyReference.cache
+D:\ProjectCoba\coba23\CashFlow\TesUnitCashFlow\obj\Debug\TesUnitCashFlow.dll
+D:\ProjectCoba\coba23\CashFlow\TesUnitCashFlow\obj\Debug\TesUnitCashFlow.pdb
+D:\ProjectCoba\coba23\CashFlow\TesUnitCashFlow\bin\Debug\NotaPengeluaranProject.dll
+D:\ProjectCoba\coba23\CashFlow\TesUnitCashFlow\bin\Debug\PeriodeProject.dll
+D:\ProjectCoba\coba23\CashFlow\TesUnitCashFlow\bin\Debug\NotaPengeluaranProject.pdb
+D:\ProjectCoba\coba23\CashFlow\TesUnitCashFlow\bin\Debug\PeriodeProject.pdb

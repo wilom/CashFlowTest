@@ -1,0 +1,5 @@
+D:\ProjectCoba\coba23\CashFlow\PeriodeProject\bin\Debug\PeriodeProject.dll
+D:\ProjectCoba\coba23\CashFlow\PeriodeProject\bin\Debug\PeriodeProject.pdb
+D:\ProjectCoba\coba23\CashFlow\PeriodeProject\obj\Debug\PeriodeProject.csprojResolveAssemblyReference.cache
+D:\ProjectCoba\coba23\CashFlow\PeriodeProject\obj\Debug\PeriodeProject.dll
+D:\ProjectCoba\coba23\CashFlow\PeriodeProject\obj\Debug\PeriodeProject.pdb

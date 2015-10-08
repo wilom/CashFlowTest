@@ -1,0 +1,7 @@
+D:\ProjectCoba\coba23\CashFlow\TesUnitCashFlow\obj\Debug\TestUnitCashFlow.csprojResolveAssemblyReference.cache
+D:\ProjectCoba\coba23\CashFlow\TesUnitCashFlow\bin\Debug\TesUnitCashFlow.dll
+D:\ProjectCoba\coba23\CashFlow\TesUnitCashFlow\bin\Debug\TesUnitCashFlow.pdb
+D:\ProjectCoba\coba23\CashFlow\TesUnitCashFlow\bin\Debug\ProjectCashFlow.dll
+D:\ProjectCoba\coba23\CashFlow\TesUnitCashFlow\bin\Debug\ProjectCashFlow.pdb
+D:\ProjectCoba\coba23\CashFlow\TesUnitCashFlow\obj\Debug\TesUnitCashFlow.dll
+D:\ProjectCoba\coba23\CashFlow\TesUnitCashFlow\obj\Debug\TesUnitCashFlow.pdb
